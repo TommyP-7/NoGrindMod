@@ -14,10 +14,10 @@ Below you will find all the changes made by this mod, segmented into categories.
 - Gambling can now be part of the game loop (optional), because it is very lucrative - Set/Unique/Rare items are now much easier to gamble. This way, Gold plays a massive role in acquiring gear, if the player so chooses.
 
 ### Skill Changes (Minor QoL)
-- Removed the 180-second duration of Revive (to avoid having to refarm them)
-- Revived Monsters speed raised from +50% to +200% (to avoid losing them)
-- Removed Frozen Orb cast cooldown
-- Removed Fire Wall cast cooldown
+- Removed the 180-second duration of Revive (to avoid having to refarm them).
+- Revived Monsters speed raised from +50% to +200% (to avoid losing them).
+- Removed Frozen Orb cast cooldown.
+- Removed Fire Wall cast cooldown.
 - The following skills can now be cast in Town:
   - Battle Orders
   - Battle Command
@@ -51,3 +51,20 @@ Below you will find all the changes made by this mod, segmented into categories.
   - Lycanthropy
   - Werewolf Form
   - Werebear Form
+
+### Farming Changes
+- Greatly increased High Rune drop chances, but still maintaining balance.
+- Andariel can now be farmed for gems in the following way:
+  - Normal: High chance to drop Normal Gems
+  - Nightmare: High chance to drop Flawless Gems
+  - Hell: High chance to drop Perfect Gems
+- Hell Radament can now be farmed for Rainbow Facets.
+- Hell Duriel can now be farmed for Sunder Charms.
+- Hell Countess, Nihlathak, and Summoner now drop their Keys 10x more often.
+- The Countess can drop higher Runes in the following way (3 Runes guaranteed per kill):
+  - Normal Limit (Including): KO Rune
+  - Nightmare Limit (Including): VEX Rune
+  - Hell Limit (Including): ZOD Rune
+- Council Members in Travincal can now be farmed for Gold - they drop 4x the base amount.
+- The Cow King in Hell difficulty now has a high chance to drop the Gheed's Fortune Grand Charm.
+
