@@ -11,15 +11,15 @@ News 1 Title: "NoGrindMod"
 News 1 Message: "QoL Mod to reduce the grinding in D2R and respect your time."
 News 2 Title: Changes
 News 2 Message: This Diablo II mod adds major improvements to farming, gambling, skills, items, and Cube crafting for smoother and more rewarding gameplay. High Runes drop more often, Andariel drops gems by difficulty, Hell Radament drops Rainbow Facets, and Hell Duriel drops Sunder Charms. The Countess, Nihlathak, and Summoner drop keys ten times more often, and the Countess always drops three runes, scaling up to Zod in Hell. Travincal Council Members give four times more gold, and the Hell Cow King can drop Gheed’s Fortune.
-
+-------------------------------------------------------------------
 Gambling now includes all item types—Charms, Jewels, and more—with tiers based on difficulty. Set, Unique, and Rare items are much easier to gamble, making gold an important part of endgame progression.
-
+-------------------------------------------------------------------
 Skills get big quality-of-life upgrades: Revives last forever and move faster, Frozen Orb and Fire Wall have no cooldowns, and many buff skills like Battle Orders, Shout, and Teleport can now be cast in town or in shapeshifted form. Buff durations are massively extended to reduce constant recasting.
-
+-------------------------------------------------------------------
 Items are more convenient and visually distinct. Gems show red text, and Rejuvenation Potions are purple. A new Runic Elixir, purchasable for 50,000+ gold, grants a random rune or can be used in Cube recipes. Diablo Clone now spawns when selling a Nagelring, Manald Heal, or Nokozan Relic. Gheed’s Fortune gives +400% Gold Find, and Tome and Key stacks increase to 500.
-
+-------------------------------------------------------------------
 The Horadric Cube now supports advanced crafting. Set items can be upgraded, and any item can be downgraded, socketed, or made Ethereal. Perfect Gems can be converted into other types, and Runic Elixirs reroll charms, jewels, weapons, armor, rings, and amulets—making customization faster and more flexible.
-
+-------------------------------------------------------------------
 For a full list of changes, go to the GitHub page of NoGrindMod.
  
 --General Options--
