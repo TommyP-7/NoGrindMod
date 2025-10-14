@@ -35,8 +35,8 @@ Below you will find all the changes made by this mod, segmented into categories.
 ### Skill Changes (Minor QoL)
 - Removed the 180-second duration of Revive (to avoid having to refarm them).
 - Revived Monsters speed raised from +50% to +200% (to avoid losing them).
-- Removed Frozen Orb cast cooldown.
-- Removed Fire Wall cast cooldown.
+- Removed Frozen Orb cast cooldown (+Removed cooldown text in Skill Description).
+- Removed Fire Wall cast cooldown (+Removed cooldown text in Skill Description).
 - The following skills can now be cast in Town:
   - Battle Orders
   - Battle Command
