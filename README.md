@@ -20,37 +20,37 @@ Below you will find all the changes made by this mod, segmented into categories.
 - Removed Fire Wall cast cooldown
 
 - The following skills can now be cast in Town:
-    ---> Battle Orders
-    ---> Battle Command
-    ---> Shout
-    ---> Teleport
-    ---> Thunder Storm
+  - Battle Orders
+  - Battle Command
+  - Shout
+  - Teleport
+  - Thunder Storm
 
 - The following skills can now be cast in Wolf/Bear forms:
-    ---> Battle Orders
-    ---> Battle Command
-    ---> Shout
-    ---> Teleport
-    ---> Burst of Speed
-    ---> Fade
-    ---> Venom
-    ---> Blade Shield
+  - Battle Orders
+  - Battle Command
+  - Shout
+  - Teleport
+  - Burst of Speed
+  - Fade
+  - Venom
+  - Blade Shield
 
 - Buff spell types got a massive duration upgrade so as to not have to recast them all the time:
-    ---> Frozen Armor (+Synergy)
-    ---> Chilling Armor (+Synergy)
-    ---> Shiver Armor (+Synergy)
-    ---> Enchant
-    ---> Thunder Storm
-    ---> Energy Shield
-    ---> Shout (+Synergy)
-    ---> Battle Orders (+Synergy)
-    ---> Battle Command (+Synergy)
-    ---> Holy Shield
-    ---> Fade
-    ---> Burst of Speed
-    ---> Venom
-    ---> Blade Shield
-    ---> Lycanthropy
-    ---> Werewolf Form
-    ---> Werebear Form
+  - Frozen Armor (+Synergy)
+  - Chilling Armor (+Synergy)
+  - Shiver Armor (+Synergy)
+  - Enchant
+  - Thunder Storm
+  - Energy Shield
+  - Shout (+Synergy)
+  - Battle Orders (+Synergy)
+  - Battle Command (+Synergy)
+  - Holy Shield
+  - Fade
+  - Burst of Speed
+  - Venom
+  - Blade Shield
+  - Lycanthropy
+  - Werewolf Form
+  - Werebear Form
