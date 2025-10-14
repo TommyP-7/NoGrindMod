@@ -25,7 +25,7 @@ Below you will find all the changes made by this mod, segmented into categories.
   - Shout
   - Teleport
   - Thunder Storm
-
+  
 - The following skills can now be cast in Wolf/Bear forms:
   - Battle Orders
   - Battle Command
@@ -35,7 +35,7 @@ Below you will find all the changes made by this mod, segmented into categories.
   - Fade
   - Venom
   - Blade Shield
-
+  
 - Buff spell types got a massive duration upgrade so as to not have to recast them all the time:
   - Frozen Armor (+Synergy)
   - Chilling Armor (+Synergy)
