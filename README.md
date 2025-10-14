@@ -150,8 +150,8 @@ Below you will find all the changes made by this mod, segmented into categories.
 
 # Installation
 - There are 2 ways to install the NoGrindMod:
-  1. Download via the D2RLAN interface after downloading the bast TCP mod there.
-  2. Follow these steps:
+  - MEtHOD 1 - Download via the D2RLAN interface after downloading the bast TCP mod there.
+  - METHOD 2 - Follow these steps:
      - Download the .ZIP file from here and extract it 
 	 - From the "NoGrindMod-main" folder, copy the folder named "NoGrindMod" to "D2R\Mods"
 	 - Start D2RLAN and be sure to have already downloaded the base TCP mod via its interface 
