@@ -5,6 +5,8 @@
 - Designed for use with D2RLAN's base TCP files - v2.4 of the game (a must).
 - I created this mod for myself but decided to release it for people who also have limited time but are passionate about Diablo 2.
 
+![Banner](NoGrindMod/NoGrindMod.mpq/data/D2RLAN/Logo.png)
+
 # Changes
 
 Below you will find all the changes made by this mod, segmented into categories.
