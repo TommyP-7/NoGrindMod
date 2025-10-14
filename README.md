@@ -147,3 +147,13 @@ Below you will find all the changes made by this mod, segmented into categories.
   - Mercenaries can wear ALL pieces of gear (even 2 Rings).
   - Massively expanded Inventory + Horadric Cube + Stash space sizes.
   - And many more...
+
+# Installation
+- There are 2 ways to install the NoGrindMod:
+  1. Download via the D2RLAN interface after downloading the bast TCP mod there.
+  2. Follow these steps:
+     - Download the .ZIP file from here and extract it 
+	 - From the "NoGrindMod-main" folder, copy the folder named "NoGrindMod" to "D2R\Mods"
+	 - Start D2RLAN and be sure to have already downloaded the base TCP mod via its interface 
+	 - NoGrindMod should then be detected in the "Mod Choice" dropdown field
+	 - Click "Play Mod" to play
