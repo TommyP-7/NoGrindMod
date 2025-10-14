@@ -18,15 +18,16 @@ Below you will find all the changes made by this mod, segmented into categories.
 - Revived Monsters speed raised from +50% to +200% (to avoid losing them)
 - Removed Frozen Orb cast cooldown
 - Removed Fire Wall cast cooldown
-
 - The following skills can now be cast in Town:
+
   - Battle Orders
   - Battle Command
   - Shout
   - Teleport
   - Thunder Storm
-
+  
 - The following skills can now be cast in Wolf/Bear forms:
+
   - Battle Orders
   - Battle Command
   - Shout
@@ -35,8 +36,9 @@ Below you will find all the changes made by this mod, segmented into categories.
   - Fade
   - Venom
   - Blade Shield
-
+  
 - Buff spell types got a massive duration upgrade so as to not have to recast them all the time:
+
   - Frozen Armor (+Synergy)
   - Chilling Armor (+Synergy)
   - Shiver Armor (+Synergy)
