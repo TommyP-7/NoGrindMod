@@ -8,19 +8,6 @@
 
 Below you will find all the changes made by this mod, segmented into categories.
 
-### General Changes
-- Intro Logo Videos skipped.
-- Used with D2RLAN, it naturally inherits its features (credit to Bonesy for all of them - toggled in the D2RLAN interface):
-  - Display Advanced Monster Stats.
-  - TCP/IP Support.
-  - Infinite Stash Storage.
-  - Display Item Levels.
-  - Loot Filters.
-  - Infinite Respecs (ALT+Clock on PLUS sign next to character stat OR via a D2RLAN hotkey set in the D2RLAN interface).
-  - Mercenaries can wear ALL pieces of gear (even 2 Rings).
-  - Massively expanded Inventory + Horadric Cube + Stash space sizes.
-  - And many more...
-
 ### Farming Changes
 - Greatly increased High Rune drop chances, but still maintaining balance.
 - Andariel can now be farmed for gems in the following way:
@@ -148,4 +135,15 @@ Below you will find all the changes made by this mod, segmented into categories.
   - 1 Runic Elixir + 1 Magic Amulet -> 1 Rerolled Magic Amulet 
   - 1 Runic Elixir + 1 Rare Amulet -> 1 Rerolled Rare Amulet
 
-
+### General Changes
+- Intro Logo Videos skipped.
+- Used with D2RLAN, it naturally inherits its features (credit to Bonesy for all of them - toggled in the D2RLAN interface):
+  - Display Advanced Monster Stats.
+  - TCP/IP Support.
+  - Infinite Stash Storage.
+  - Display Item Levels.
+  - Loot Filters.
+  - Infinite Respecs (ALT+Click on PLUS sign next to character stat OR via a D2RLAN hotkey set in the D2RLAN interface).
+  - Mercenaries can wear ALL pieces of gear (even 2 Rings).
+  - Massively expanded Inventory + Horadric Cube + Stash space sizes.
+  - And many more...
