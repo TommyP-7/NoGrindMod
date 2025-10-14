@@ -1,5 +1,5 @@
 # NoGrindMod
-## For Diablo 2 Resurrected v2.4 (via D2RLAN)
+## For Diablo 2 Resurrected v2.4 - Base TCP (via D2RLAN)
 - Small QoL Mod conceived mainly to reduce the grinding in D2R and respect your time.
 - Keeps things as close to the vanilla experience as possible, while minimizing time-related inconveniences.
 - Designed for use with D2RLAN's base TCP files - v2.4 of the game (a must).
