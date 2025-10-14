@@ -8,12 +8,12 @@
 
 Below you will find all the changes made by this mod, segmented into categories.
 
-## Gamble Changes
+### Gamble Changes
 - All item types can now be gambled (including Charms and Jewels).
 - Gambling now functions as follows: Normal items on Normal diffifulty, Exceptional on Nightmare, Elite on Hell.
 - Gambling can now be part of the game loop (optional), because it is very lucrative - Set/Unique/Rare items are now much easier to gamble. This way, Gold plays a massive role in acquiring gear, if the player so chooses.
 
-## Skill Changes (Minor QoL)
+### Skill Changes (Minor QoL)
 - Removed the 180-second duration of Revive (to avoid having to refarm them)
 - Revived Monsters speed raised from +50% to +200% (to avoid losing them)
 - Removed Frozen Orb cast cooldown
