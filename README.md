@@ -1,12 +1,25 @@
 # NoGrindMod
 - Small QoL Mod conceived mainly to reduce the grinding in D2R and respect your time.
 - Keeps things as close to the vanilla experience as possible, while minimizing time-related inconveniences.
-- Designed for use with D2RLAN.
+- Designed for use with D2RLAN's base TCP files - v2.4 of the game (a must).
 - I created this mod for myself but decided to release it for people who also have limited time but are passionate about Diablo 2.
 
 # Changes
 
 Below you will find all the changes made by this mod, segmented into categories.
+
+### General Changes
+- Intro Logo Videos skipped.
+- Used with D2RLAN, it naturally inherits its features (credit to Bonesy for all of them - toggled in the D2RLAN interface):
+  - Display Advanced Monster Stats.
+  - TCP/IP Support.
+  - Infinite Stash Storage.
+  - Display Item Levels.
+  - Loot Filters.
+  - Infinite Respecs (ALT+Clock on PLUS sign next to character stat OR via a D2RLAN hotkey set in the D2RLAN interface).
+  - Mercenaries can wear ALL pieces of gear (even 2 Rings).
+  - Massively expanded Inventory + Horadric Cube + Stash space sizes.
+  - And many more...
 
 ### Farming Changes
 - Greatly increased High Rune drop chances, but still maintaining balance.
