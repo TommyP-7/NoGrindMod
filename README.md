@@ -109,5 +109,30 @@ Below you will find all the changes made by this mod, segmented into categories.
   - Perfect Skull + Sur Rune + Rare Amulet + Rare Ring + Non-Set, Non-Ethereal Weapon -> Same Weapon, but Ethereal
   - Perfect Skull + Sur Rune + Rare Amulet + Rare Ring + Non-Set, Non-Ethereal Armor -> Same Armor, but Ethereal
 - You can now downgrade White Ethereal items to White items (Non-Ethereal):
-  - Ethereal White Armor + 4 Stamina Potions + 1 Perfect Gem = White Armor (Non-Ethereal)
-  - Ethereal White Weapon + 4 Stamina Potions + 1 Perfect Gem = White Weapon (Non-Ethereal)
+  - Ethereal White Armor + 4 Stamina Potions + 1 Perfect Gem -> White Armor (Non-Ethereal)
+  - Ethereal White Weapon + 4 Stamina Potions + 1 Perfect Gem -> White Weapon (Non-Ethereal)
+- You can now convert Perfect Gems:
+  - 3 Perfect Gems + Tir Rune -> Perfect Amethyst
+  - 3 Perfect Gems + Eld Rune -> Perfect Topaz
+  - 3 Perfect Gems + Nef Rune -> Perfect Emerald
+  - 3 Perfect Gems + Eth Rune -> Perfect Saphire
+  - 3 Perfect Gems + Ith Rune -> Perfect Ruby
+  - 3 Perfect Gems + Tal Rune -> Perfect Diamond
+  - 3 Perfect Gems + Ral Rune -> Perfect Skull
+- You can now use the new "Runic Elixir" item for the following recipes:
+  - 1 Runic Elixir = 1 Random Rune (Based on Character Level)
+  - 1 Runic Elixir + 1 Magic Small Charm -> Rerolled Magic Small Charm
+  - 1 Runic Elixir + 1 Magic Large Charm -> Rerolled Magic Large Charm
+  - 1 Runic Elixir + 1 Magic Grand Charm -> Rerolled Magic Grand Charm
+  - 1 Runic Elixir + 1 Magic Jewel -> Rerolled Magic Jewel
+  - 1 Runic Elixir + 1 Rare Jewel -> Rerolled Rare Jewel
+  - 1 Runic Elixir + 1 Magic Armor -> 1 Rerolled Magic Armor
+  - 1 Runic Elixir + 1 Magic Weapon -> 1 Rerolled Magic Weapon
+  - 1 Runic Elixir + 1 Rare Armor -> 1 Rerolled Rare Armor
+  - 1 Runic Elixir + 1 Rare Weapon -> 1 Rerolled Rare Weapon
+  - 1 Runic Elixir + 1 Magic Ring -> 1 Rerolled Magic Ring
+  - 1 Runic Elixir + 1 Rare Ring -> 1 Rerolled Rare Ring
+  - 1 Runic Elixir + 1 Magic Amulet -> 1 Rerolled Magic Amulet 
+  - 1 Runic Elixir + 1 Rare Amulet -> 1 Rerolled Rare Amulet
+
+
