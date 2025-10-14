@@ -10,8 +10,7 @@ Mod Version: 1.0
 News 1 Title: "NoGrindMod"
 News 1 Message: "QoL Mod to reduce the grinding in D2R and respect your time."
 News 2 Title: Changes
-News 2 Message: NoGrindMod was designed to eliminate the repetitiveness of certain aspects of the game for thos who no longer have too much time to play the game but are very passionate about it. From massively increased High Rune drop chances and difficulty-scaled gem farming from Andariel, to Rainbow Facets from Hell Radament, Sunder Charms from Hell Duriel, 10x higher key drops from the Countess, Nihlathak, and Summoner, guaranteed multi-rune drops from the Countess, boosted gold from Travincal Council Members, and Gheed’s Fortune drops from the Hell Cow King, to fully revamped gambling for all item types, quality-of-life skill upgrades like casting in town and casting in Wolf/Bear form with extended buff durations,easier Diablo Clone spawning, expanded stack sizes for Tomes and Keys, and dozens of Horadric Cube recipes for upgrading, downgrading, socketing, rerolling, and making items Ethereal, it contains many small QoL changes that you can read about on the GitHub page of the mod. Everything is meant to be used with D2RLAN + base TCP files. Contains the Terror Zones + Sunder Charms files.
- 
+News 2 Message: NoGrindMod is designed for players who love the game but have limited time. It boosts High Rune and key drops, scales gem farming from Andariel, adds farm locations for Gold, Rainbow Facets, Sunder Charms, and multi-rune drops, revamps gambling to be a possible part of progression, allows all buffs to be cast in town/Wolf/Bear form, makes Diablo Clone easier to spawn, expands Tome/Key stacks, and adds many Horadric Cube recipes. Works with D2RLAN + base TCP files and includes Terror Zones + Sunder Charms. For a detailed feature list, visit the NoGrindMod GitHub page.
 --General Options--
 Map Layouts: Enabled
 UI Themes: Enabled
