@@ -83,16 +83,25 @@ Below you will find all the changes made by this mod, segmented into categories.
   - 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon
   - 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor
 - You can downgrade Socketed/Magic/Rare items to White items:
-  - Socketed Armor + 1 Perfect Gem -> White Armor
-  - Socketed Weapon + 1 Perfect Gem -> White Weapon
-  - Magic Armor + 1 Perfect Gem -> White Armor
-  - Magic Weapon + 1 Perfect Gem -> White Weapon
-  - Rare Armor + 1 Perfect Gem -> White Armor
-  - Rare Weapon + 1 Perfect Gem -> White Weapon
+  - 1 Perfect Gem + Socketed Armor -> White Armor
+  - 1 Perfect Gem + Socketed Weapon -> White Weapon
+  - 1 Perfect Gem + Magic Armor -> White Armor
+  - 1 Perfect Gem + Magic Weapon -> White Weapon
+  - 1 Perfect Gem + Rare Armor -> White Armor
+  - 1 Perfect Gem + Rare Weapon -> White Weapon
 - You can downgrade Ethereal Socketed/Magic/Rare items to Ethereal White items:
-  - Ethereal Socketed Armor + 2 Perfect Gems -> Ethereal White Armor
-  - Ethereal Socketed Weapon + 2 Perfect Gems -> Ethereal White Weapon
-  - Ethereal Magic Armor + 2 Perfect Gems -> Ethereal White Armor
-  - Ethereal Magic Weapon + 2 Perfect Gems -> Ethereal White Weapon
-  - Ethereal Rare Armor + 2 Perfect Gems -> Ethereal White Armor
-  - Ethereal Rare Weapon + 2 Perfect Gems -> Ethereal White Weapon
+  - 2 Perfect Gems + Ethereal Socketed Armor -> Ethereal White Armor
+  - 2 Perfect Gems + Ethereal Socketed Weapon -> Ethereal White Weapon
+  - 2 Perfect Gems + Ethereal Magic Armor -> Ethereal White Armor
+  - 2 Perfect Gems + Ethereal Magic Weapon -> Ethereal White Weapon
+  - 2 Perfect Gems + Ethereal Rare Armor -> Ethereal White Armor
+  - 2 Perfect Gems + Ethereal Rare Weapon -> Ethereal White Weapon
+- You can add 1 Socket to Magic/Rare/Unique/Set items (same as Larzuk, but with the Horadric Cube):
+  - 3 Perfect Gems + Magic Armor -> Magic Armor with 1 Socket
+  - 3 Perfect Gems + Magic Weapon -> Magic Weapon with 1 Socket
+  - 3 Perfect Gems + Rare Armor -> Rare Armor with 1 Socket
+  - 3 Perfect Gems + Rare Magic Weapon -> Rare Weapon with 1 Socket
+  - 3 Perfect Gems + Unique Armor -> Unique Armor with 1 Socket
+  - 3 Perfect Gems + Unique Weapon -> Unique Weapon with 1 Socket
+  - 3 Perfect Gems + Set Armor -> Set Armor with 1 Socket
+  - 3 Perfect Gems + Set Weapon -> Set Weapon with 1 Socket
