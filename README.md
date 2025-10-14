@@ -68,3 +68,12 @@ Below you will find all the changes made by this mod, segmented into categories.
 - Council Members in Travincal can now be farmed for Gold - they drop 4x the base amount.
 - The Cow King in Hell difficulty now has a high chance to drop the Gheed's Fortune Grand Charm.
 
+### Item Changes
+- Added RED text colour to all gems.
+- Added PURPLE text colour to Rejuvenation/Full Rejuvenation Potions.
+- Added a custom item called "Runic Elixir" to all Gamble NPCs. They can be bought for 50,000+ Gold and when right clicked, they give you a random rune based on your character level. This also adds to Gold being a direct factor in acquiring gear while also remaining optional. It is also a new Horadric Cube ingredient.
+- In order to spawn Diablo Clone, you need to sell 1 Nagelring/Manald Heal/Nokozan Relic, not 1 Stone of Jordan.
+- Modified Gheed's Fortune to provide a flat 400% boost to Gold Find (thus shortening grinding periods).
+- Tome of Town Portal, Tome of Identify, Key stacks raised to 500 (from 20 and 12 respectively).
+
+### Cube Changes (Added Recipes)
