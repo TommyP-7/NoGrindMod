@@ -29,7 +29,7 @@ Below you will find all the changes made by this mod, segmented into categories.
 
 ### Gamble Changes
 - All item types can now be gambled (including Charms and Jewels).
-- Gambling now functions as follows: Normal items on Normal diffifulty, Exceptional on Nightmare, Elite on Hell.
+- Gambling now functions as follows: Normal items on Normal difficulty, Exceptional on Nightmare, Elite on Hell (You must be high enough level to get the respective Exceptional/Elite items on Nightmare/Hell - otherwise it defaults back to Normal).
 - Gambling can now be part of the game loop (optional), because it is very lucrative - Set/Unique/Rare items are now much easier to gamble. This way, Gold plays a massive role in acquiring gear, if the player so chooses.
 
 ### Skill Changes (Minor QoL)
