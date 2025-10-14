@@ -1,5 +1,5 @@
 # NoGrindMod
-- QoL Mod to reduce the grinding in D2R and respect your time + some minor changes.
+- Small QoL Mod conceived mainly to reduce the grinding in D2R and respect your time.
 - Keeps things as close to the vanilla experience as possible, while minimizing time-related inconveniences.
 - Designed for use with D2RLAN.
 - I created this mod for myself but decided to release it for people who also have limited time but are passionate about Diablo 2.
@@ -77,3 +77,8 @@ Below you will find all the changes made by this mod, segmented into categories.
 - Tome of Town Portal, Tome of Identify, Key stacks raised to 500 (from 20 and 12 respectively).
 
 ### Cube Changes (Added Recipes)
+- You can now upgrade Set Items:
+  - 1 Ral Rune + 1 Sol Rune   + 1 Perfect Emerald + 1 Normal Set Weapon      -> Exceptional Set Weapon
+  - 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor       -> Exceptional Set Armor
+  - 1 Lum Rune + 1 Pul Rune   + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon
+  - 1 Ko Rune  + 1 Lem Rune   + 1 Perfect Diamond + 1 Exceptional Set Armor  -> Elite Set Armor
