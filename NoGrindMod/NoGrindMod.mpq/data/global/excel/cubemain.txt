@@ -165,11 +165,9 @@ Downgrade Armor (perfect gem + mag armor)	1				0					2	"armo,mag,noe"	"gem4,qty=
 Downgrade Weapon (perfect gem + sock weapon)	1				0					2	"weap,sock,noe"	"gem4,qty=1"						"usetype,nor"			100																																																																																				0
 Downgrade Armor (perfect gem + sock armor)	1				0					2	"armo,sock,noe"	"gem4,qty=1"						"usetype,nor"			100																																																																																				0
 Downgrade Weapon (perfect gem + rare weapon)	1				0					2	"weap,rar,noe"	"gem4,qty=1"						"usetype,nor"			100																																																																																				0
-Downgrade Eth Sock Weapon (perfect gem + sock eth armor)	1				0					3	"weap,sock,ethereal"	"gem4,qty=2"						"usetype,nor"			100	ethereal			1	1																																																																															0
-Downgrade Eth Sock Armor (perfect gem + sock eth armor)	1				0					3	"armo,sock,ethereal"	"gem4,qty=2"						"usetype,nor"			100	ethereal			1	1																																																																															0
 Downgrade Armor (perfect gem + rare armor)	1				0					2	"armo,rar"	"gem4,qty=1"						"usetype,nor"			100																																																																																				0
-2 Perfect Gems + Magic Armor = +1 Socket Magic Armor	1				100					3	"armo,mag,nos"	"gem4,qty=2"						"useitem"			100	sock			1	1																																																																															0
-2 Perfect Gems + Magic Weapon = +1 Socket Magic Weapon	1				100					3	"weap,mag,nos"	"gem4,qty=2"						"useitem"			100	sock			1	1																																																																															0
+3 Perfect Gems + Magic Armor = +1 Socket Magic Armor	1				100					4	"armo,mag,nos"	"gem4,qty=3"						"useitem"			100	sock			1	1																																																																															0
+3 Perfect Gems + Magic Weapon = +1 Socket Magic Weapon	1				100					4	"weap,mag,nos"	"gem4,qty=3"						"useitem"			100	sock			1	1																																																																															0
 3 Perfect Gems + Unique Weapon = +1 Socket Unique Weapon	1				100					4	"weap,uni,nos"	"gem4,qty=3"						"useitem"			100	sock			1	1																																																																															0
 3 Perfect Gems + Unique Armour = +1 Socket Unique  Armour	1				100					4	"armo,uni,nos"	"gem4,qty=3"						"useitem"			100	sock			1	1																																																																															0
 3 Perfect Gems + Rare Weapon = +1 Socket Rare Weapon	1				100					4	"weap,rar,nos"	"gem4,qty=3"						"useitem"			100	sock			1	1																																																																															0
@@ -188,10 +186,6 @@ Perfect Skull + Sur Rune + Rare Amulet + Rare Ring + Any Non-Eth  Armor = Eth Ar
 Eth White Armor + 4 stamina potion + perfect gem = White Armor (Not Eth)	1				100					6	"armo,ethereal"	"gem4,qty=1"	"spot,qty=4"					"usetype,nor"			100																																																																																				0
 Eth White Weapon + 4 stamina potion + perfect gem = White Weapon (Not Eth)	1				100					6	"weap,ethereal"	"gem4,qty=1"	"spot,qty=4"					"usetype,nor"			100																																																																																				0
 1 Runic Elixir ---> 1 Random Rune	1				100					1	"rpl"							rune		100																																																																																					0
-2 Runic Elixir ---> 1 Magic Small Charm					100					2	"rpl,qty=2"							"cm1,mag"		100																																																																																					0
-3 Runic Elixir ---> 1 Magic Large Charm					100					3	"rpl,qty=3"							"cm2,mag"		100																																																																																					0
-4 Runic Elixir ---> 1 Magic Grand Charm					100					4	"rpl,qty=4"							"cm3,mag"		100																																																																																					0
-5 Runic Elixir ---> 1 Magic Jewel					100					5	"rpl,qty=5"							"jew,mag"		100																																																																																					0
 1 Runic Elixir + 1 Magic Small Charm ---> Rerolled Small Charm	1				100					2	"cm1,mag"	"rpl"						"cm1,mag"			100																																																																																				0
 1 Runic Elixir + 1 Magic Large Charm ---> Rerolled Large Charm	1				100					2	"cm2,mag"	"rpl"						"cm2,mag"			100																																																																																				0
 1 Runic Elixir + 1 Magic Grand Charm ---> Rerolled Grand Charm	1				100					2	"cm3,mag"	"rpl"						"cm3,mag"			100																																																																																				0

@@ -148,6 +148,9 @@ Below you will find all the changes made by this mod, segmented into categories.
   - Massively expanded Inventory + Horadric Cube + Stash space sizes.
   - And many more...
 
+### Notes
+- Since this is based upon the base TCP files of D2RLAN, and they, in turn, are based on D2R version v2.4, the Runewords Metamorphosis and Mosaic are not yet implemented. This has nothing to do with NoGrindMod - they may, however, be implemented by the creators of D2RLAN at some future date. They, however, DID implement Terror Zones and Sunder Charms, so NoGrindMod naturally inherits them from D2RLAN. Note also that these features are those of D2RLAN and NOT NoGrindMod. All credits for these and the General Changes above go to its developers.
+
 # Installation
 - There are 2 ways to install the NoGrindMod:
   - METHOD 1 - Download via the D2RLAN interface after downloading the base TCP mod files there.
