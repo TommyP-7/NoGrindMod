@@ -82,6 +82,13 @@ Below you will find all the changes made by this mod, segmented into categories.
   - 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor
   - 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon
   - 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor
+- You can downgrade Socketed/Magic/Rare items to White items:
+  - Socketed Armor + 1 Perfect Gem -> White Armor
+  - Socketed Weapon + 1 Perfect Gem -> White Weapon
+  - Magic Armor + 1 Perfect Gem -> White Armor
+  - Magic Weapon + 1 Perfect Gem -> White Weapon
+  - Rare Armor + 1 Perfect Gem -> White Armor
+  - Rare Weapon + 1 Perfect Gem -> White Weapon
 - You can downgrade Ethereal Socketed/Magic/Rare items to Ethereal White items:
   - Ethereal Socketed Armor + 2 Perfect Gems -> Ethereal White Armor
   - Ethereal Socketed Weapon + 2 Perfect Gems -> Ethereal White Weapon
