@@ -8,6 +8,22 @@
 
 Below you will find all the changes made by this mod, segmented into categories.
 
+### Farming Changes
+- Greatly increased High Rune drop chances, but still maintaining balance.
+- Andariel can now be farmed for gems in the following way:
+  - Normal: High chance to drop Normal Gems
+  - Nightmare: High chance to drop Flawless Gems
+  - Hell: High chance to drop Perfect Gems
+- Hell Radament can now be farmed for Rainbow Facets.
+- Hell Duriel can now be farmed for Sunder Charms.
+- Hell Countess, Nihlathak, and Summoner now drop their Keys 10x more often.
+- The Countess can drop higher Runes in the following way (3 Runes guaranteed per kill):
+  - Normal Limit (Including): KO Rune
+  - Nightmare Limit (Including): VEX Rune
+  - Hell Limit (Including): ZOD Rune
+- Council Members in Travincal can now be farmed for Gold - they drop 4x the base amount.
+- The Cow King in Hell difficulty now has a high chance to drop the Gheed's Fortune Grand Charm.
+
 ### Gamble Changes
 - All item types can now be gambled (including Charms and Jewels).
 - Gambling now functions as follows: Normal items on Normal diffifulty, Exceptional on Nightmare, Elite on Hell.
@@ -51,22 +67,6 @@ Below you will find all the changes made by this mod, segmented into categories.
   - Lycanthropy
   - Werewolf Form
   - Werebear Form
-
-### Farming Changes
-- Greatly increased High Rune drop chances, but still maintaining balance.
-- Andariel can now be farmed for gems in the following way:
-  - Normal: High chance to drop Normal Gems
-  - Nightmare: High chance to drop Flawless Gems
-  - Hell: High chance to drop Perfect Gems
-- Hell Radament can now be farmed for Rainbow Facets.
-- Hell Duriel can now be farmed for Sunder Charms.
-- Hell Countess, Nihlathak, and Summoner now drop their Keys 10x more often.
-- The Countess can drop higher Runes in the following way (3 Runes guaranteed per kill):
-  - Normal Limit (Including): KO Rune
-  - Nightmare Limit (Including): VEX Rune
-  - Hell Limit (Including): ZOD Rune
-- Council Members in Travincal can now be farmed for Gold - they drop 4x the base amount.
-- The Cow King in Hell difficulty now has a high chance to drop the Gheed's Fortune Grand Charm.
 
 ### Item Changes
 - Added RED text colour to all gems.
