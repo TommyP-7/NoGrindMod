@@ -78,7 +78,14 @@ Below you will find all the changes made by this mod, segmented into categories.
 
 ### Cube Changes (Added Recipes)
 - You can now upgrade Set Items:
-  - 1 Ral Rune + 1 Sol Rune   + 1 Perfect Emerald + 1 Normal Set Weapon      -> Exceptional Set Weapon
-  - 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor       -> Exceptional Set Armor
-  - 1 Lum Rune + 1 Pul Rune   + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon
-  - 1 Ko Rune  + 1 Lem Rune   + 1 Perfect Diamond + 1 Exceptional Set Armor  -> Elite Set Armor
+  - 1 Ral Rune + 1 Sol Rune + 1 Perfect Emerald + 1 Normal Set Weapon -> Exceptional Set Weapon
+  - 1 Tal Rune + 1 Shael Rune + 1 Perfect Diamond + 1 Normal Set Armor -> Exceptional Set Armor
+  - 1 Lum Rune + 1 Pul Rune + 1 Perfect Emerald + 1 Exceptional Set Weapon -> Elite Set Weapon
+  - 1 Ko Rune + 1 Lem Rune + 1 Perfect Diamond + 1 Exceptional Set Armor -> Elite Set Armor
+- You can downgrade Ethereal Socketed/Magic/Rare items to Ethereal White items:
+  - Ethereal Socketed Armor + 2 Perfect Gems -> Ethereal White Armor
+  - Ethereal Socketed Weapon + 2 Perfect Gems -> Ethereal White Weapon
+  - Ethereal Magic Armor + 2 Perfect Gems -> Ethereal White Armor
+  - Ethereal Magic Weapon + 2 Perfect Gems -> Ethereal White Weapon
+  - Ethereal Rare Armor + 2 Perfect Gems -> Ethereal White Armor
+  - Ethereal Rare Weapon + 2 Perfect Gems -> Ethereal White Weapon
