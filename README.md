@@ -11,6 +11,11 @@
 
 Below you will find all the changes made by this mod, segmented into categories.
 
+### Melee Changes
+- All Melee Attacks can now deal Splash Damage (optional).
+  - Buy the Unique Small Charm called "Primordial Will" from Gheed and keep it in the inventory for Splash to work.
+  - If you don't want Splash and want the Vanilla Melee, throw the charm out or sell it - Splash will stop working.
+
 ### Farming Changes
 - Greatly increased High Rune drop chances, but still maintaining balance.
 - Andariel can now be farmed for gems in the following way:
@@ -156,10 +161,20 @@ Below you will find all the changes made by this mod, segmented into categories.
 
 # Installation
 - There are 2 ways to install the NoGrindMod:
-  - METHOD 1 - Download via the D2RLAN interface after downloading the base TCP mod files there.
-  - METHOD 2 - Follow these steps:
+  - METHOD 1 - AUTOMATIC (via D2RLAN):
+     - Download via the D2RLAN interface after downloading the base TCP mod files there
+	 - Click "Play Mod" to play
+     - When in-game, press F12 and press the "D2RHUD Options" button
+	 - Uncheck "Gamble Cost Control" - this step is very important for gambling to work correctly
+	 - Press "Save Config"
+	 - Play
+  - METHOD 2 - MANUAL:
      - Download the .ZIP file from here and extract it 
 	 - From the "NoGrindMod-main" folder, copy the folder named "NoGrindMod" to "D2R\Mods"
 	 - Start D2RLAN and be sure to have already downloaded the base TCP mod via its interface 
 	 - NoGrindMod should then be detected in the "Mod Choice" dropdown field
 	 - Click "Play Mod" to play
+	 - When in-game, press F12 and press the "D2RHUD Options" button
+	 - Uncheck "Gamble Cost Control" - this step is very important for gambling to work correctly
+	 - Press "Save Config"
+	 - Play

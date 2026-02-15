@@ -199,5 +199,5 @@ Eth White Weapon + 4 stamina potion + perfect gem = White Weapon (Not Eth)	1				
 1 Runic Elixir + 1 Rare Ring ---> 1 Rerolled Rare Ring	1				100					2	"ring,rar"	"rpl,qty=1"						"usetype,rar"			100																																																																																				0
 1 Runic Elixir + 1 Magic Amulet ---> 1 Rerolled Magic Amulet 	1				100					2	"amu,mag"	"rpl,qty=1"						"usetype,mag"			100																																																																																				0
 1 Runic Elixir + 1 Rare Amulet ---> 1 Rerolled Rare Amulet	1				100					2	"amu,rar"	"rpl,qty=1"						"usetype,rar"			100																																																																																				0
-HPOT (Test)					100					1	"hpot"							cm3	99																																																																																						0
+HPOT (Test)					100					1	"hpot"							Config	99																																																																																						0
 MPOT (Test)					100					1	"mpot"							jew	99																																																																																						0
