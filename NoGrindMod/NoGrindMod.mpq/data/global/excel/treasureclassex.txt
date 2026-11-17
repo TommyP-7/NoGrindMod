@@ -723,11 +723,11 @@ Radament (N) Desecrated A	21	52	5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (N
 Radament (N) Desecrated B	21	62	5	900	900	900	1024	19	"gld,mul=1536"	11	Act 5 (N) Equip A	19	Act 5 (N) Junk	15	Act 5 (N) Good	3																0
 Radament (N) Desecrated C	21	73	5	900	900	900	1024	19	"gld,mul=1536"	11	Act 3 (H) Equip A	19	Act 3 (H) Junk	15	Act 3 (H) Good	3																0
 RainbowFacet2			1	1024				0	jew	1																						0
-Radament (H)			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 3 (H) Equip C	19	Act 3 (H) Junk	15	Act 3 (H) Good	3	RaibowFacet2	10														0
-Radament Item (H) Desecrated A			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 4 (H) Equip B	19	Act 4 (H) Junk	15	Act 4 (H) Good	3	RaibowFacet2	10														0
-Radament Item (H) Desecrated B			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip A	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	RaibowFacet2	10														0
-Radament Item (H) Desecrated C			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip B	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	RaibowFacet2	10														0
-Radament Item (H) Desecrated D			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip C	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	RaibowFacet2	10														0
+Radament (H)			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 3 (H) Equip C	19	Act 3 (H) Junk	15	Act 3 (H) Good	3	RainbowFacet2	10														0
+Radament Item (H) Desecrated A			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 4 (H) Equip B	19	Act 4 (H) Junk	15	Act 4 (H) Good	3	RainbowFacet2	10														0
+Radament Item (H) Desecrated B			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip A	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	RainbowFacet2	10														0
+Radament Item (H) Desecrated C			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip B	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	RainbowFacet2	10														0
+Radament Item (H) Desecrated D			6	900	900	900	1024	19	"gld,mul=2048"	11	Act 5 (H) Equip C	19	Act 5 (H) Junk	15	Act 5 (H) Good	3	RainbowFacet2	10														0
 Radament (H) Desecrated A	21	86	-2					0	Sunder Charms	1	Radament Item (H) Desecrated A	1																				0
 Radament (H) Desecrated B	21	90	-2					0	Sunder Charms	1	Radament Item (H) Desecrated B	1																				0
 Radament (H) Desecrated C	21	93	-2					0	Sunder Charms	1	Radament Item (H) Desecrated C	1																				0
